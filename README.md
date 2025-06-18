@@ -27,7 +27,7 @@ This app mimics real-life benefit processes in a privacy-conscious way, using mo
 
 **Name**: Your A/C Name  
 **Email**: your-email@example.com  
-**Website**: [yourtexasbenefits com])
+**Website**: [yourtexasbenefits com](https://www.yourtexasbenefitse.com)
 
 **Bio**: A full-stack developer with deep expertise in React, Node.js, and scalable UI design. With over 8 years of industry experience, their open-source work reflects a deep commitment to community learning, performance-driven coding, and support for fellow devs.
 
